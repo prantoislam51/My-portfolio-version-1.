@@ -84,7 +84,7 @@ Paste an image URL between the quotes. Leave it empty to keep the built-in demo 
 
 **Texts and translations** — every visible string is stored in the `T` object as `[English, Bengali]`. Edit both values to change a text.
 
-**Email address** — change the `MAIL` constant and the address shown in the two email boxes (search for `prantoislam@gmail.com`).
+**Email address** — change the `MAIL` constant and the address shown in the two email boxes (search for `prantoislamnt51@gmail.com`).
 
 **Social links** — in the Contact section, replace the `https://github.com`, `https://linkedin.com`, `https://x.com` and `https://youtube.com` links with your own profiles.
 
@@ -108,7 +108,7 @@ Paste an image URL between the quotes. Leave it empty to keep the built-in demo 
 
 ## Contact
 
-- Email: prantoislam@gmail.com
+- Email: prantoislamnt51@gmail.com
 - Location: Dhaka, Bangladesh
 
 ## License
