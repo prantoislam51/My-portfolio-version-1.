@@ -38,6 +38,16 @@ A single-file, liquid-glass personal portfolio for a full stack developer who bu
 - Google Fonts (loaded on demand)
 - Inline SVG for icons, logos and demo project pictures
 
+## Demo
+
+### Day mode
+
+![Portfolio in day mode](<Demo Day Mod.png>)
+
+### Light mode
+
+![Portfolio in light mode](<Demo Light Mod.png>)
+
 ## Run locally
 
 No installation needed.
@@ -91,6 +101,8 @@ Paste an image URL between the quotes. Leave it empty to keep the built-in demo 
 ```
 .
 ├── index.html   # the whole portfolio (HTML + CSS + JS)
+├── Demo Day Mod.png
+├── Demo Light Mod.png
 └── README.md
 ```
 
